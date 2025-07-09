@@ -57,3 +57,6 @@ The primary goal of this lab is to build a controlled environment for practicing
 - Ran system update commands:
   ```bash
   sudo apt update && sudo apt upgrade -y
+  git add .
+git commit -m "Added Windows 7 target VM setup to virtual lab"
+git push origin main
