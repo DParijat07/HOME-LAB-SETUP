@@ -1,4 +1,4 @@
-# TASK-1 🛡️ Kali Linux Virtual Lab Setup on VMware Workstation (Windows 11 Host)
+🛡️ Kali Linux Virtual Lab Setup on VMware Workstation (Windows 11 Host)
 
 ## 📖 Project Overview
 This repository documents the step-by-step process I followed to set up a **personal cybersecurity lab** using **Kali Linux** as a virtual machine on my **Windows 11 system** with **VMware Workstation Player** (default configuration).
